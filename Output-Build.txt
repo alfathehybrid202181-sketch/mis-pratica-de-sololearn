@@ -1,0 +1,6 @@
+﻿Build started at 7:00 p. m....
+1>------ Build started: Project: prueba 2, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  prueba 2 -> C:\Users\Lenovo\Desktop\PROGRAMACION DIFICIL\prueba 2\prueba 2\bin\Debug\net10.0\prueba 2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 7:00 p. m. and took 01.863 seconds ==========
